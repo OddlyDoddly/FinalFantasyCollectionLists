@@ -1,0 +1,9 @@
+{
+  "JP": ["JP", "JP, NA", "JP, EU, AUS", "JP, EU", "NA, JP, EU", "JP, AUS", "---"],
+  "NA": ["NA", "NA, EU, AUS", "JP, NA", "NA, EU", "NA, JP, EU"],
+  "EU": ["EU", "EU, AUS", "NA, EU, AUS", "JP, EU, AUS", "JP, EU", "NA, EU", "NA, JP, EU"],
+  "AU": ["AUS", "EU, AUS", "NA, EU, AUS", "JP, EU, AUS", "JP, AUS"],
+  "WW": ["International", "Worldwide", "WW", "Wordwide", "---"],
+  "CH": ["China", "CH"],
+  "KO": ["Korea"]
+}

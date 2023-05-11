@@ -1,0 +1,99 @@
+{
+    "NES": ["Famicom", "Nintendo"],
+    "NES-CLASSIC": ["NEW Classic Edition"],
+    "SNES": ["Super Famicom", "Super Nintendo"],
+    "GC": ["GameCube"],
+    "NINTENDO-ESHOP": ["Nintendo eShop"],
+    "WII": ["Nintendo Wii"],
+    "WII-ESHOP": ["WiiWare", "Wii Virtual Console"],
+    "WIIU": [],
+    "WIIU-ESHOP": ["Wii U Virtual Console"],
+    "SWITCH": ["Nintendo Switch"],
+    "SWITCH-ESHOP": ["Nintendo Switch (eShop)"],
+    "GB": ["Game Boy"],
+    "GBC": ["Game Boy Color"],
+    "GBA": ["Game Boy Advance"],
+    "NDS": ["Nintendo DS"],
+    "N3DS": ["Nintendo 3DS"],
+    "N3DS-ESHOP": ["Nintendo 3DS Virtual Console"],
+    "PSP": ["Sony PSP"],
+    "PSP-PSN": ["PlayStation Network (PSP)"],
+    "PSVITA": ["PS Vita"],
+    "PSN": ["PlayStation Network (PSOne)", "PlayStation Network"],
+    "PS1": ["Sony PlayStation", "PlayStation"],
+    "PS2": ["PlayStation 2"],
+    "PS3": ["PlayStation 3"],
+    "PS3-PSN": ["PlayStation Network (PS3)"],
+    "PS4": [
+        "Playstation 4",
+        "PlayStation 4",
+        "PlayStation4 4",
+        "PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One"
+    ],
+    "PS4-PSN": ["Playstation 4 (Download)"],
+    "PS5": [
+        "Playstation 5",
+        "PlayStation 5",
+        "PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One"
+    ],
+    "PS5-PSN": [],
+    "XBOX": [],
+    "XB360": ["Xbox 360"],
+    "XB360-ARCADE": ["Xbox Live Arcade"],
+    "XBONE": [
+        "Xbox One",
+        "PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One"
+    ],
+    "XBONE-DIGITAL": ["Xbox One (Download)"],
+    "XBSX": [],
+    "PC": [
+        "Microsoft Windows (PC)",
+        "PC (Steam)",
+        "Apple OS X (Mac)",
+        "Android / Apple iOS / PC (Steam)",
+        "Square Enix Store",
+        "PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One"
+    ],
+    "WS": ["WonderSwan Color"],
+    "MOBILE-OTHER": [
+        "Mobile Phone",
+        "Mobile Phone (i-mode)",
+        "Mobile Phone (FOMA)",
+        "Mobile Phone (CDMA 1X WIN)",
+        "Mobile Phone (SoftBank)",
+        "Mobile Phone (Amp'd, Verizon)",
+        "Mobile Phone (Softbank)",
+        "Mobile Phone (EZWeb)",
+        "Mobile Phone (EZweb)",
+        "Mobile Phone (DoCoMo)",
+        "Mobile Phone (Yahoo! Keitai)",
+        "Mobile Phone (au Win Brew)",
+        "Mobile Phone (FOMA 903i/703i)",
+        "Mobile Phone (AU)",
+        "Mobile Phone (GREE)"
+    ],
+    "IOS": [
+        "Apple iOS (iPhone, iPod Touch)",
+        "Android / Apple iOS",
+        "Android / Apple iOS / PC (Steam)",
+        "Apple iOS",
+        "Apple iOS (iPad)"
+    ],
+    "ANDROID": [
+        "Android",
+        "Android / Apple iOS",
+        "Android / Apple iOS / PC (Steam)"
+    ],
+    "WINDOWS-PHONE": ["Windows Phone"],
+    "VIDEO": [
+        "VHS",
+        "TV/DVD",
+        "DVD",
+        "Blu-ray",
+        "YouTube",
+        "Select Cinemas",
+        "Cinemas"
+    ],
+    "OTHER": ["Ouya", "Kindle Fire", "MSX2"],
+    "ARCADE": ["Arcade"]
+}

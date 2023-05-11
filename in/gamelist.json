@@ -1,0 +1,3452 @@
+[
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Famicom",
+        "release": "1987-12-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Famicom",
+        "release": "1988-12-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "MSX2",
+        "release": "1989-06-01",
+        "region": "JP"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "Game Boy",
+        "release": "1989-12-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3]",
+        "system": "Famicom",
+        "release": "1990-04-27",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Nintendo",
+        "release": "1990-07-12",
+        "region": "NA"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "Game Boy",
+        "release": "1990-09-30",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Legend II",
+        "system": "Game Boy",
+        "release": "1990-12-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Adventure (Final Fantasy Gaiden)",
+        "system": "Game Boy",
+        "release": "1991-06-08",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4] [Hard Type]",
+        "system": "Super Famicom",
+        "release": "1991-07-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4] [Easy Type]",
+        "system": "Super Famicom",
+        "release": "1991-10-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legend II",
+        "system": "Game Boy",
+        "release": "1991-11-01",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Adventure",
+        "system": "Game Boy",
+        "release": "1991-11-01",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Super Nintendo",
+        "release": "1991-11-23",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Legend III",
+        "system": "Game Boy",
+        "release": "1991-12-13",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Mystic Quest",
+        "system": "Super Nintendo",
+        "release": "1992-10-05",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "Super Famicom",
+        "release": "1992-12-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Adventure (Mystic Quest)",
+        "system": "Game Boy",
+        "release": "1993-02-15",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Legend III",
+        "system": "Game Boy",
+        "release": "1993-08-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy USA: Mystic Quest",
+        "system": "Super Famicom",
+        "release": "1993-09-10",
+        "region": "JP"
+    },
+    {
+        "name": "Mystic Quest Legend",
+        "system": "Super Nintendo",
+        "release": "1993-10-15",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy I & II",
+        "system": "Famicom",
+        "release": "1994-01-01",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legend of the Crystals",
+        "system": "VHS",
+        "release": "1994-03-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Super Famicom",
+        "release": "1994-04-02",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [6]",
+        "system": "Super Nintendo",
+        "release": "1994-10-11",
+        "region": "NA"
+    },
+    {
+        "name": "Preview Extra: Final Fantasy VII & Siggraph '95 Works",
+        "system": "Sony PlayStation",
+        "release": "1996-08-22",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Sony PlayStation",
+        "release": "1997-01-31",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "PlayStation",
+        "release": "1997-03-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legend of the Crystals",
+        "system": "VHS",
+        "release": "1997-06-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics",
+        "system": "PlayStation",
+        "release": "1997-06-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Sony PlayStation",
+        "release": "1997-09-04",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VII [7] International",
+        "system": "PlayStation",
+        "release": "1997-10-07",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Sony PlayStation",
+        "release": "1997-11-01",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy Tactics",
+        "system": "PlayStation",
+        "release": "1998-01-28",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "PlayStation",
+        "release": "1998-03-19",
+        "region": "JP"
+    },
+    {
+        "name": "The Final Fantasy Legend Re-release",
+        "system": "Game Boy Color",
+        "release": "1998-04-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Legend II Re-release",
+        "system": "Game Boy Color",
+        "release": "1998-04-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Legend III Re-release",
+        "system": "Game Boy Color",
+        "release": "1998-04-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Adventure Re-release",
+        "system": "Game Boy Color",
+        "release": "1998-04-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Microsoft Windows (PC)",
+        "release": "1998-05-31",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Microsoft Windows (PC)",
+        "release": "1998-06-25",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation",
+        "release": "1999-02-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation",
+        "release": "1999-03-01",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Collection [4, 5 & 6]",
+        "system": "PlayStation",
+        "release": "1999-03-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VIII [8]: Greatest Hits",
+        "system": "PlayStation",
+        "release": "1999-08-31/td>",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation",
+        "release": "1999-09-09",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Anthology [5 & 6]",
+        "system": "PlayStation",
+        "release": "1999-10-05",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation",
+        "release": "1999-10-27",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2000-01-25",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2000-02-18",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2000-03-23",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]: Greatest Hits",
+        "system": "Sony PlayStation",
+        "release": "2000-03-27",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics: Square's Millennium Collection",
+        "system": "PlayStation",
+        "release": "2000-06-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation",
+        "release": "2000-07-07",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation",
+        "release": "2000-11-14",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "WonderSwan Color",
+        "release": "2000-12-09",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation",
+        "release": "2001-02-16",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "WonderSwan Color",
+        "release": "2001-05-03",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics: Sony Greatest Hits",
+        "system": "PlayStation",
+        "release": "2001-06-15",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy: The Spirits Within",
+        "system": "Cinemas",
+        "release": "2001-07-02",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: The Spirits Within",
+        "system": "Cinemas",
+        "release": "2001-07-13",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X [10]",
+        "system": "PlayStation 2",
+        "release": "2001-07-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: Unlimited",
+        "system": "TV/DVD",
+        "release": "2001-10-02",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: The Spirits Within",
+        "system": "DVD",
+        "release": "2001-10-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy I+II Premium Package",
+        "system": "PlayStation",
+        "release": "2001-11-01",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X [10]",
+        "system": "PlayStation 2",
+        "release": "2001-12-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X [10] International",
+        "system": "PlayStation 2",
+        "release": "2002-01-31",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Anthology [4 & 5]",
+        "system": "PlayStation",
+        "release": "2002-02-27",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation",
+        "release": "2002-03-01",
+        "region": "EU"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "WonderSwan Color",
+        "release": "2002-03-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "WonderSwan Color",
+        "release": "2002-03-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "PlayStation 2",
+        "release": "2002-05-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X [10]",
+        "system": "PlayStation 2",
+        "release": "2002-05-17",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy X [10]",
+        "system": "PlayStation 2",
+        "release": "2002-05-24",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy: Unlimited with U",
+        "system": "Mobile Phone (i-mode)",
+        "release": "2002-08-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2002-11-07",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics Advance",
+        "system": "Game Boy Advance",
+        "release": "2003-02-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X-2 [10-2]",
+        "system": "PlayStation 2",
+        "release": "2003-03-13",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Origins [1 & 2]",
+        "system": "PlayStation",
+        "release": "2003-03-14",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Origins [1 & 2]",
+        "system": "PlayStation",
+        "release": "2003-04-08",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "PlayStation 2",
+        "release": "2003-04-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Microsoft Windows (PC)",
+        "release": "2003-04-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: Unlimited on PC Adventure - Labyrinth",
+        "system": "Microsoft Windows (PC)",
+        "release": "2003-05-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles",
+        "system": "GameCube",
+        "release": "2003-08-08",
+        "region": "JP"
+    },
+    {
+        "name": "Sword of Mana (Final Fantasy Adventure Remake)",
+        "system": "Game Boy Advance",
+        "release": "2003-08-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics Advance",
+        "system": "Game Boy Advance",
+        "release": "2003-09-08",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics Advance",
+        "system": "Game Boy Advance",
+        "release": "2003-10-24",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2003-10-28",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Microsoft Windows (PC)",
+        "release": "2003-10-28",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X-2 [10-2]",
+        "system": "PlayStation 2",
+        "release": "2003-11-18",
+        "region": "NA"
+    },
+    {
+        "name": "Sword of Mana (Final Fantasy Adventure Remake)",
+        "system": "Game Boy Advance",
+        "release": "2003-12-01",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles",
+        "system": "GameCube",
+        "release": "2004-02-09",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X-2 [10-2] International + Last Mission",
+        "system": "PlayStation 2",
+        "release": "2004-02-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X-2 [10-2]",
+        "system": "PlayStation 2",
+        "release": "2004-02-20",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Mobile Phone (FOMA)",
+        "release": "2004-02-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Mobile Phone (FOMA)",
+        "release": "2004-02-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles",
+        "system": "GameCube",
+        "release": "2004-03-12",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Sword of Mana (Final Fantasy Adventure Remake)",
+        "system": "Game Boy Advance",
+        "release": "2004-03-18",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "PlayStation 2",
+        "release": "2004-03-23",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "PlayStation 2",
+        "release": "2004-03-23",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy I & II Advance",
+        "system": "Game Boy Advance",
+        "release": "2004-07-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I & II: Dawn of Souls",
+        "system": "Game Boy Advance",
+        "release": "2004-07-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Mobile Phone (CDMA 1X WIN)",
+        "release": "2004-08-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Mobile Phone (CDMA 1X WIN)",
+        "release": "2004-08-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "PlayStation 2",
+        "release": "2004-09-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "Microsoft Windows (PC)",
+        "release": "2004-09-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2004-09-17",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Microsoft Windows (PC)",
+        "release": "2004-09-17",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "PlayStation 2",
+        "release": "2004-09-21",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "Microsoft Windows (PC)",
+        "release": "2004-09-21",
+        "region": "NA, EU, AUS"
+    },
+    {
+        "name": "Before Crisis: Final Fantasy VII",
+        "system": "Mobile Phone (FOMA)",
+        "release": "2004-09-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I & II: Dawn of Souls",
+        "system": "Game Boy Advance",
+        "release": "2004-11-29",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy I & II: Dawn of Souls",
+        "system": "Game Boy Advance",
+        "release": "2004-12-03",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy VII [7] Snowboarding",
+        "system": "Mobile Phone",
+        "release": "2005-03-29",
+        "region": "JP, NA"
+    },
+    {
+        "name": "Final Fantasy: Unlimited",
+        "system": "DVD",
+        "release": "2005-08-23",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X/X-2 Ultimate Box",
+        "system": "PlayStation 2",
+        "release": "2005-09-09",
+        "region": "JP"
+    },
+    {
+        "name": "Last Order: Final Fantasy VII",
+        "system": "DVD",
+        "release": "2005-09-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII: Advent Children",
+        "system": "DVD",
+        "release": "2005-09-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4] Advance",
+        "system": "Game Boy Advance",
+        "release": "2005-12-12",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4] Advance",
+        "system": "Game Boy Advance",
+        "release": "2005-12-15",
+        "region": "JP"
+    },
+    {
+        "name": "Dirge of Cerberus: Final Fantasy VII",
+        "system": "PlayStation 2",
+        "release": "2006-01-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4] Advance",
+        "system": "Game Boy Advance",
+        "release": "2006-02-23",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy XII [12]",
+        "system": "PlayStation 2",
+        "release": "2006-03-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Xbox 360",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Xbox 360",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "Xbox 360",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "PlayStation 2",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "Microsoft Windows (PC)",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "Xbox 360",
+        "release": "2006-04-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Xbox 360",
+        "release": "2006-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Xbox 360",
+        "release": "2006-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "Xbox 360",
+        "release": "2006-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "PlayStation 2",
+        "release": "2006-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "Microsoft Windows (PC)",
+        "release": "2006-04-20",
+        "region": "JP, EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "Xbox 360",
+        "release": "2006-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]",
+        "system": "Xbox 360",
+        "release": "2006-04-21",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Rise of the Zilart",
+        "system": "Xbox 360",
+        "release": "2006-04-21",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Chains of Promathia",
+        "system": "PlayStation 2",
+        "release": "2006-04-21",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Treasures of Aht Urhgan",
+        "system": "Xbox 360",
+        "release": "2006-04-21",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy VII: Advent Children",
+        "system": "DVD",
+        "release": "2006-04-25",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4] Advance",
+        "system": "Game Boy Advance",
+        "release": "2006-06-02",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Mobile Phone (SoftBank)",
+        "release": "2006-07-03",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Mobile Phone (SoftBank)",
+        "release": "2006-07-03",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VIII [8]: Ultimate Hits",
+        "system": "PlayStation",
+        "release": "2006-07-20/td>",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Adventure",
+        "system": "Mobile Phone (SoftBank)",
+        "release": "2006-08-16",
+        "region": "JP"
+    },
+    {
+        "name": "Dirge of Cerberus: Final Fantasy VII",
+        "system": "PlayStation 2",
+        "release": "2006-08-20",
+        "region": "NA"
+    },
+    {
+        "name": "Dirge of Cerberus Lost Episode: Final Fantasy VII",
+        "system": "Mobile Phone (Amp'd, Verizon)",
+        "release": "2006-08-22",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Nintendo DS",
+        "release": "2006-08-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5] Advance",
+        "system": "Game Boy Advance",
+        "release": "2006-10-12",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XII [12]",
+        "system": "PlayStation 2",
+        "release": "2006-10-31",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy V [5] Advance",
+        "system": "Game Boy Advance",
+        "release": "2006-11-06",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Adventure",
+        "system": "Mobile Phone (i-mode)",
+        "release": "2006-11-06",
+        "region": "JP"
+    },
+    {
+        "name": "Dirge of Cerberus: Final Fantasy VII",
+        "system": "PlayStation 2",
+        "release": "2006-11-11",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Nintendo DS",
+        "release": "2006-11-14",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VI [6] Advance",
+        "system": "Game Boy Advance",
+        "release": "2006-11-30",
+        "region": "JP"
+    },
+    {
+        "name": "Before Crisis: Final Fantasy VII",
+        "system": "Mobile Phone (Softbank)",
+        "release": "2007-01-30",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6] Advance",
+        "system": "Game Boy Advance",
+        "release": "2007-02-05",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Adventure",
+        "system": "Mobile Phone (EZWeb)",
+        "release": "2007-02-05",
+        "region": "JP"
+    },
+    {
+        "name": "Last Order: Final Fantasy VII",
+        "system": "DVD",
+        "release": "2007-02-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XII [12]",
+        "system": "PlayStation 2",
+        "release": "2007-02-23",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Before Crisis: Final Fantasy VII",
+        "system": "Mobile Phone (EZweb)",
+        "release": "2007-04-05",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5] Advance",
+        "system": "Game Boy Advance",
+        "release": "2007-04-10",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2007-04-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XII: Revenant Wings",
+        "system": "Nintendo DS",
+        "release": "2007-04-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Nintendo DS",
+        "release": "2007-05-03",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Nintendo DS",
+        "release": "2007-05-04",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Sony PSP",
+        "release": "2007-05-10",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2] 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2007-06-07",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2007-06-26",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition [1 & 2]",
+        "system": "Sony PSP",
+        "release": "2007-06-26",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics A2: Grimoire of the Rift",
+        "system": "Nintendo DS",
+        "release": "2007-06-27",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy VI [6] Advance",
+        "system": "Game Boy Advance",
+        "release": "2007-06-29",
+        "region": "EU"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "Mobile Phone (i-mode)",
+        "release": "2007-07-02",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2] 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2007-07-24",
+        "region": "NA"
+    },
+    {
+        "name": "Dirge of Cerberus Lost Episode: Final Fantasy VII",
+        "system": "Mobile Phone (DoCoMo)",
+        "release": "2007-07-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: The Spirits Within",
+        "system": "Blu-ray",
+        "release": "2007-08-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XII [12] International Zodiac Job System",
+        "system": "PlayStation 2",
+        "release": "2007-08-09",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Ring of Fates",
+        "system": "Nintendo DS",
+        "release": "2007-08-23",
+        "region": "JP"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII",
+        "system": "Sony PSP",
+        "release": "2007-09-13",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Sony PSP",
+        "release": "2007-10-05",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Sony PSP",
+        "release": "2007-10-08",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Sony PSP",
+        "release": "2007-10-09",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics A2: Grimoire of the Rift",
+        "system": "Nintendo DS",
+        "release": "2007-10-25",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "PlayStation 2",
+        "release": "2007-11-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Xbox 360",
+        "release": "2007-11-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XII: Revenant Wings",
+        "system": "Nintendo DS",
+        "release": "2007-11-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Microsoft Windows (PC)",
+        "release": "2007-11-21",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "PlayStation 2",
+        "release": "2007-11-22",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Microsoft Windows (PC)",
+        "release": "2007-11-22",
+        "region": "JP, EU"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Xbox 360",
+        "release": "2007-11-22",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Xbox 360",
+        "release": "2007-11-23",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Microsoft Windows (PC)",
+        "release": "2007-12-06",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Wings of the Goddess",
+        "system": "Xbox 360",
+        "release": "2007-12-06",
+        "region": "AUS"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "Mobile Phone (EZWeb)",
+        "release": "2007-12-13",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Nintendo DS",
+        "release": "2007-12-20",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Guardians",
+        "system": "Mobile Phone (i-mode)",
+        "release": "2008-01-01",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2008-02-08",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy II [2] 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2008-02-08",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XII: Revenant Wings",
+        "system": "Nintendo DS",
+        "release": "2008-02-15",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IV the After: Tsuki no Kikan",
+        "system": "Mobile Phone (FOMA)",
+        "release": "2008-02-18",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition",
+        "system": "Sony PSP",
+        "release": "2008-02-28",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Ring of Fates",
+        "system": "Nintendo DS",
+        "release": "2008-03-11",
+        "region": "NA"
+    },
+    {
+        "name": "The Final Fantasy Legend",
+        "system": "Mobile Phone (SoftBank)",
+        "release": "2008-03-12",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Ring of Fates",
+        "system": "Nintendo DS",
+        "release": "2008-03-20",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Ring of Fates",
+        "system": "Nintendo DS",
+        "release": "2008-03-21",
+        "region": "EU"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII",
+        "system": "Sony PSP",
+        "release": "2008-03-24",
+        "region": "NA"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII [4]",
+        "system": "Sony PSP",
+        "release": "2008-03-25",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a King",
+        "system": "WiiWare",
+        "release": "2008-03-25",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Guardians",
+        "system": "Mobile Phone (Yahoo! Keitai)",
+        "release": "2008-04-01",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a King",
+        "system": "WiiWare",
+        "release": "2008-05-12",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV the After: Tsuki no Kikan",
+        "system": "Mobile Phone (au Win Brew)",
+        "release": "2008-05-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a King",
+        "system": "WiiWare",
+        "release": "2008-05-20",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Crystal Guardians",
+        "system": "Mobile Phone (EZWeb)",
+        "release": "2008-06-19",
+        "region": "JP"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII",
+        "system": "Sony PSP",
+        "release": "2008-06-20",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy Tactics A2: Grimoire of the Rift",
+        "system": "Nintendo DS",
+        "release": "2008-06-24",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Nintendo DS",
+        "release": "2008-07-22",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Nintendo DS",
+        "release": "2008-09-04",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Nintendo DS",
+        "release": "2008-09-05",
+        "region": "AUS"
+    },
+    {
+        "name": "Dirge of Cerberus: Final Fantasy VII International",
+        "system": "PlayStation 2",
+        "release": "2008-09-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV the After: Tsuki no Kikan",
+        "system": "Mobile Phone (SoftBank)",
+        "release": "2008-11-04",
+        "region": "JP"
+    },
+    {
+        "name": "Dissidia Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2008-12-18",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "Apple iOS (iPhone, iPod Touch)",
+        "release": "2008-12-23",
+        "region": "International"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "WiiWare",
+        "release": "2009-01-27",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo Wii",
+        "release": "2009-01-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo DS",
+        "release": "2009-01-29",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "Xbox Live Arcade",
+        "release": "2009-03-11",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo Wii",
+        "release": "2009-03-24",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo DS",
+        "release": "2009-03-24",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo Wii",
+        "release": "2009-03-27",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo DS",
+        "release": "2009-03-27",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo DS",
+        "release": "2009-04-02",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "system": "Nintendo Wii",
+        "release": "2009-04-02",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy VII [7] International",
+        "system": "PlayStation Network",
+        "release": "2009-04-09",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII: Advent Children Complete",
+        "system": "Blu-ray",
+        "release": "2009-04-16",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "WiiWare",
+        "release": "2009-04-20",
+        "region": "NA"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "WiiWare",
+        "release": "2009-04-24",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics",
+        "system": "PlayStation Network",
+        "release": "2009-05-13",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders: Vanguard Storm",
+        "system": "Apple iOS (iPad)",
+        "release": "2009-05-13",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Wii Virtual Console",
+        "release": "2009-05-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The After Years",
+        "system": "WiiWare",
+        "release": "2009-06-01",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "PlayStation Network",
+        "release": "2009-06-02",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VII: Advent Children Complete",
+        "system": "Blu-ray",
+        "release": "2009-06-02",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "PlayStation Network",
+        "release": "2009-06-04",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The After Years",
+        "system": "WiiWare",
+        "release": "2009-06-05",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Wii Virtual Console",
+        "release": "2009-06-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "PlayStation Network (PSOne)",
+        "release": "2009-06-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
+        "system": "WiiWare",
+        "release": "2009-06-30",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "PlayStation Network (PSOne)",
+        "release": "2009-07-08",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
+        "system": "WiiWare",
+        "release": "2009-07-17",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: My Life as a Darklord",
+        "system": "WiiWare",
+        "release": "2009-07-20",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Wii Virtual Console",
+        "release": "2009-07-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The After Years",
+        "system": "WiiWare",
+        "release": "2009-07-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy 20th Anniversary Edition: Ultimate Hits [1 & 2]",
+        "system": "Sony PSP",
+        "release": "2009-07-30",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Wii Virtual Console",
+        "release": "2009-08-04",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "PlayStation Network (PS3)",
+        "release": "2009-08-06",
+        "region": "International"
+    },
+    {
+        "name": "Dissidia Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2009-08-25",
+        "region": "NA"
+    },
+    {
+        "name": "Dissidia Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2009-09-03",
+        "region": "EU"
+    },
+    {
+        "name": "Dissidia Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2009-09-04",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Tactics",
+        "system": "PlayStation Network",
+        "release": "2009-09-17",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Legend II",
+        "system": "Nintendo DS",
+        "release": "2009-09-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation Network",
+        "release": "2009-09-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Wii Virtual Console",
+        "release": "2009-10-05",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Mobile Phone (FOMA 903i/703i)",
+        "release": "2009-10-05",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "PlayStation Network (PSP)",
+        "release": "2009-10-29",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy: The 4 Heroes of Light",
+        "system": "Nintendo DS",
+        "release": "2009-10-29",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+        "system": "Nintendo Wii",
+        "release": "2009-11-12",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation Network",
+        "release": "2009-12-17",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2009-12-17",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+        "system": "Nintendo Wii",
+        "release": "2009-12-26",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PlayStation Network",
+        "release": "2010-02-04",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+        "system": "Nintendo Wii",
+        "release": "2010-02-05",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Apple iOS",
+        "release": "2010-02-25",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Apple iOS",
+        "release": "2010-02-25",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2010-03-09",
+        "region": "NA, EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "Xbox 360",
+        "release": "2010-03-09",
+        "region": "NA, EU"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Wii Virtual Console",
+        "release": "2010-05-07",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation Network",
+        "release": "2010-05-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation Network",
+        "release": "2010-05-26",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Wii Virtual Console",
+        "release": "2010-06-11",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PlayStation Network",
+        "release": "2010-06-15",
+        "region": "NA"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "Apple iOS (iPad)",
+        "release": "2010-07-01",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Dimensions",
+        "system": "Mobile Phone (FOMA)",
+        "release": "2010-09-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIV [14] Collector's Edition",
+        "system": "Microsoft Windows (PC)",
+        "release": "2010-09-22",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Mystic Quest",
+        "system": "Wii Virtual Console",
+        "release": "2010-09-24",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy XIV [14]",
+        "system": "Microsoft Windows (PC)",
+        "release": "2010-09-30",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy: The 4 Heroes of Light",
+        "system": "Nintendo DS",
+        "release": "2010-10-05",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy: The 4 Heroes of Light",
+        "system": "Nintendo DS",
+        "release": "2010-10-08",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Mystic Quest",
+        "system": "Wii Virtual Console",
+        "release": "2010-10-18",
+        "region": "NA"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "Windows Phone",
+        "release": "2010-12-08",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Dimensions",
+        "system": "Mobile Phone (AU)",
+        "release": "2010-12-09",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII [13] Ultimate Hits International",
+        "system": "Xbox 360",
+        "release": "2010-12-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Mystic Quest",
+        "system": "Wii Virtual Console",
+        "release": "2010-12-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legend III",
+        "system": "Nintendo DS",
+        "release": "2011-01-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "Wii Virtual Console",
+        "release": "2011-01-18",
+        "region": "JP"
+    },
+    {
+        "name": "Crystal Defenders",
+        "system": "Android",
+        "release": "2011-01-25",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "PlayStation Network",
+        "release": "2011-02-16",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "PlayStation Network (PSP)",
+        "release": "2011-03-02",
+        "region": "EU, AUS"
+    },
+    {
+        "name": "Dissidia 012 Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2011-03-03",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "PlayStation Network",
+        "release": "2011-03-09",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Wii Virtual Console",
+        "release": "2011-03-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Wii Virtual Console",
+        "release": "2011-03-18",
+        "region": "NA"
+    },
+    {
+        "name": "Dissidia 012 Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2011-03-22",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Apple iOS",
+        "release": "2011-03-24",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The Complete Collection",
+        "system": "Sony PSP",
+        "release": "2011-03-24",
+        "region": "JP"
+    },
+    {
+        "name": "Dissidia 012 Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2011-03-25",
+        "region": "EU"
+    },
+    {
+        "name": "Dissidia 012 Final Fantasy",
+        "system": "Sony PSP",
+        "release": "2011-03-25",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "PlayStation Network",
+        "release": "2011-04-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "PlayStation Network",
+        "release": "2011-04-13",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The Complete Collection",
+        "system": "Sony PSP",
+        "release": "2011-04-19",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation Network",
+        "release": "2011-04-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The Complete Collection",
+        "system": "Sony PSP",
+        "release": "2011-04-21",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "PlayStation Network",
+        "release": "2011-04-22",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The Complete Collection",
+        "system": "Sony PSP",
+        "release": "2011-04-28",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation Network",
+        "release": "2011-05-23",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation Network",
+        "release": "2011-06-02",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy Chronicles",
+        "system": "PlayStation",
+        "release": "2011-06-29",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Wii Virtual Console",
+        "release": "2011-06-30",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "PlayStation Network",
+        "release": "2011-06-30",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "PlayStation Network",
+        "release": "2011-07-19",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Apple iOS",
+        "release": "2011-08-04",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Type-0",
+        "system": "Sony PSP",
+        "release": "2011-10-27",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "PlayStation Network",
+        "release": "2011-11-22",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PlayStation Network",
+        "release": "2011-12-06",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "PlayStation 3",
+        "release": "2011-12-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Xbox 360",
+        "release": "2011-12-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Apple iOS",
+        "release": "2012-01-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Android",
+        "release": "2012-01-06",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "PlayStation Network",
+        "release": "2012-01-10",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "PlayStation 3",
+        "release": "2012-01-31",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Xbox 360",
+        "release": "2012-01-31",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "PlayStation 3",
+        "release": "2012-02-02",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Xbox 360",
+        "release": "2012-02-02",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "PlayStation 3",
+        "release": "2012-02-03",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Xbox 360",
+        "release": "2012-02-03",
+        "region": "EU"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy",
+        "system": "Nintendo 3DS",
+        "release": "2012-02-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Wii Virtual Console",
+        "release": "2012-03-08",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Windows Phone",
+        "release": "2012-06-04",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Windows Phone",
+        "release": "2012-06-13",
+        "region": "NA, EU"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Android",
+        "release": "2012-06-27",
+        "region": "International"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy",
+        "system": "Nintendo 3DS",
+        "release": "2012-07-03",
+        "region": "NA"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy",
+        "system": "Nintendo 3DS",
+        "release": "2012-07-05",
+        "region": "AUS"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy",
+        "system": "Nintendo 3DS",
+        "release": "2012-07-06",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Android",
+        "release": "2012-07-27",
+        "region": "NA, EU"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Apple iOS",
+        "release": "2012-08-01",
+        "region": "Korea"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Android",
+        "release": "2012-08-01",
+        "region": "Korea"
+    },
+    {
+        "name": "Final Fantasy VII [7] Square Enix Store Re-release",
+        "system": "Microsoft Windows (PC)",
+        "release": "2012-08-14",
+        "region": "NA, EU"
+    },
+    {
+        "name": "Final Fantasy Dimensions",
+        "system": "Apple iOS",
+        "release": "2012-08-31",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Dimensions",
+        "system": "Android",
+        "release": "2012-08-31",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII/XIII-2 Dual Pack",
+        "system": "PlayStation 3",
+        "release": "2012-09-13",
+        "region": "China"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Sony PSP",
+        "release": "2012-09-20",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "PlayStation Network",
+        "release": "2012-09-25",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "PlayStation Network",
+        "release": "2012-09-26",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Kindle Fire",
+        "release": "2012-11-01",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Artniks",
+        "system": "Mobile Phone (GREE)",
+        "release": "2012-11-30",
+        "region": "JP"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy",
+        "system": "Apple iOS",
+        "release": "2012-12-13",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Apple iOS",
+        "release": "2012-12-14",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Airborne Brigade",
+        "system": "Android",
+        "release": "2012-12-14",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy 25th Anniversary Ultimate Box",
+        "system": "PlayStation 3",
+        "release": "2012-12-18",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Apple iOS",
+        "release": "2012-12-20",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Android",
+        "release": "2012-12-21",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Dimensions",
+        "system": "Android",
+        "release": "2012-12-21",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Wii U Virtual Console",
+        "release": "2013",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: All the Bravest",
+        "system": "Apple iOS",
+        "release": "2013-01-17",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Android",
+        "release": "2013-02-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 3",
+        "release": "2013-03-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PS Vita",
+        "release": "2013-03-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 3",
+        "release": "2013-03-20",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PS Vita",
+        "release": "2013-03-20",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 3",
+        "release": "2013-03-21",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PS Vita",
+        "release": "2013-03-21",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Seekers of Adoulin",
+        "system": "PlayStation 2",
+        "release": "2013-03-27",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Seekers of Adoulin",
+        "system": "Microsoft Windows (PC)",
+        "release": "2013-03-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XI [11]: Seekers of Adoulin",
+        "system": "Xbox 360",
+        "release": "2013-03-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "Apple iOS",
+        "release": "2013-03-28",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy: All the Bravest",
+        "system": "Android",
+        "release": "2013-04-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Ouya",
+        "release": "2013-04-15",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7] Square Enix Store Re-release",
+        "system": "Microsoft Windows (PC)",
+        "release": "2013-05-16",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Tactics S",
+        "system": "Android",
+        "release": "2013-05-28",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "Android",
+        "release": "2013-06-04",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Wii U Virtual Console",
+        "release": "2013-06-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "PC (Steam)",
+        "release": "2013-07-04",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: A Realm Reborn",
+        "system": "Microsoft Windows (PC)",
+        "release": "2013-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: A Realm Reborn",
+        "system": "PlayStation 3",
+        "release": "2013-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy: All the Bravest",
+        "system": "Android",
+        "release": "2013-09-12",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "Android",
+        "release": "2013-09-25",
+        "region": "International"
+    },
+    {
+        "name": "Pictlogica Final Fantasy",
+        "system": "Android",
+        "release": "2013-10-28",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Ultimate Box",
+        "system": "PlayStation 3",
+        "release": "2013-11-21",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2013-11-21",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Xbox 360",
+        "release": "2013-11-21",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The After Years",
+        "system": "Android",
+        "release": "2013-11-25",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8]",
+        "system": "PC (Steam)",
+        "release": "2013-12-05",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Wii U Virtual Console",
+        "release": "2013-12-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 3",
+        "release": "2013-12-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PS Vita",
+        "release": "2013-12-26",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Windows Phone",
+        "release": "2013-12-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Nintendo 3DS Virtual Console",
+        "release": "2014",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "Wii U Virtual Console",
+        "release": "2014-01-08",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Android",
+        "release": "2014-01-15",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "Apple iOS",
+        "release": "2014-02-06",
+        "region": "International"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2014-02-11",
+        "region": "NA"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Xbox 360",
+        "release": "2014-02-11",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy II [2]",
+        "system": "Nintendo 3DS Virtual Console",
+        "release": "2014-02-12",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2014-02-13",
+        "region": "EU"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Xbox 360",
+        "release": "2014-02-13",
+        "region": "EU"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "PlayStation 3",
+        "release": "2014-02-14",
+        "region": "AUS"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Xbox 360",
+        "release": "2014-02-14",
+        "region": "AUS"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: A Realm Reborn",
+        "system": "PlayStation 4",
+        "release": "2014-04-14",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Mystic Quest",
+        "system": "Wii U Virtual Console",
+        "release": "2014-04-16",
+        "region": "JP"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy: Curtain Call",
+        "system": "Nintendo 3DS",
+        "release": "2014-04-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Agito",
+        "system": "Android",
+        "release": "2014-05-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Agito",
+        "system": "Apple iOS",
+        "release": "2014-05-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy III [3] 3D",
+        "system": "PC (Steam)",
+        "release": "2014-05-27",
+        "region": "International"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy: Curtain Call",
+        "system": "Nintendo 3DS",
+        "release": "2014-09-16",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy IV [4]",
+        "system": "PC (Steam)",
+        "release": "2014-09-17",
+        "region": "International"
+    },
+    {
+        "name": "Theatrhythm Final Fantasy: Curtain Call",
+        "system": "Nintendo 3DS",
+        "release": "2014-09-19",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Record Keeper",
+        "system": "Apple iOS",
+        "release": "2014-09-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Record Keeper",
+        "system": "Android",
+        "release": "2014-09-24",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "PC (Steam)",
+        "release": "2014-10-09",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "Square Enix Store",
+        "release": "2014-10-09",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "PC (Steam)",
+        "release": "2014-12-11",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7] G-Bike",
+        "system": "Apple iOS",
+        "release": "2014-12-15",
+        "region": "JP, NA"
+    },
+    {
+        "name": "Final Fantasy VII [7] G-Bike",
+        "system": "Android",
+        "release": "2014-12-15",
+        "region": "JP, NA"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Nintendo 3DS Virtual Console",
+        "release": "2014-12-18",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Explorers",
+        "system": "Nintendo 3DS",
+        "release": "2014-12-18",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "Nintendo eShop",
+        "release": "2015",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Portal App",
+        "system": "Android",
+        "release": "2015-02-04",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Portal App",
+        "system": "Apple iOS",
+        "release": "2015-02-04",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legends: Toki no Suish\u014d",
+        "system": "Apple iOS",
+        "release": "2015-02-12",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Legends: Toki no Suish\u014d",
+        "system": "Android",
+        "release": "2015-02-12",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Type-0 HD",
+        "system": "PlayStation 4",
+        "release": "2015-03-17",
+        "region": "NA, JP, EU"
+    },
+    {
+        "name": "Final Fantasy Type-0 HD",
+        "system": "Xbox One",
+        "release": "2015-03-17",
+        "region": "NA, JP, EU"
+    },
+    {
+        "name": "Final Fantasy Record Keeper",
+        "system": "Apple iOS",
+        "release": "2015-03-26",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Record Keeper",
+        "system": "Android",
+        "release": "2015-03-26",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "Apple iOS",
+        "release": "2015-04-10",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII [13]",
+        "system": "Android",
+        "release": "2015-04-10",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IV [4]: The After Years",
+        "system": "PC (Steam)",
+        "release": "2015-05-11",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 4",
+        "release": "2015-05-12",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 4",
+        "release": "2015-05-14",
+        "region": "JP, AUS"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PlayStation 4",
+        "release": "2015-05-15",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy Tactics: The War of the Lions",
+        "system": "Android",
+        "release": "2015-06-04",
+        "region": "NA, EU, AUS"
+    },
+    {
+        "name": "Mobius Final Fantasy",
+        "system": "Apple iOS",
+        "release": "2015-06-04",
+        "region": "JP"
+    },
+    {
+        "name": "Mobius Final Fantasy",
+        "system": "Android",
+        "release": "2015-06-04",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: A Realm Reborn",
+        "system": "Apple OS X (Mac)",
+        "release": "2015-06-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Heavensward",
+        "system": "Microsoft Windows (PC)",
+        "release": "2015-06-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Heavensward",
+        "system": "PlayStation 3",
+        "release": "2015-06-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Heavensward",
+        "system": "PlayStation4 4",
+        "release": "2015-06-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Heavensward",
+        "system": "Apple OS X (Mac)",
+        "release": "2015-06-23",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Type-0 HD",
+        "system": "PC (Steam)",
+        "release": "2015-08-18",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Apple iOS",
+        "release": "2015-08-19",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Portal App",
+        "system": "Android",
+        "release": "2015-08-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Portal App",
+        "system": "Apple iOS",
+        "release": "2015-08-19",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy V [5]",
+        "system": "PC (Steam)",
+        "release": "2015-09-24",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Apple iOS",
+        "release": "2015-09-25",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIII-2 [13-2]",
+        "system": "Android",
+        "release": "2015-09-25",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: Brave Exvius",
+        "system": "Apple iOS",
+        "release": "2015-10-22",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy: Brave Exvius",
+        "system": "Android",
+        "release": "2015-10-22",
+        "region": "JP"
+    },
+    {
+        "name": "Dissidia Final Fantasy NT",
+        "system": "Arcade",
+        "release": "2015-11-26",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "PC (Steam)",
+        "release": "2015-12-10",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VI [6]",
+        "system": "PC (Steam)",
+        "release": "2015-12-16",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VI [6] Advance",
+        "system": "Wii U Virtual Console",
+        "release": "2015-12-22",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy Explorers",
+        "system": "Nintendo 3DS",
+        "release": "2016-01-26",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Tactics Advance",
+        "system": "Wii U Virtual Console",
+        "release": "2016-01-28",
+        "region": "NA, EU, AUS"
+    },
+    {
+        "name": "Final Fantasy Explorers",
+        "system": "Nintendo 3DS",
+        "release": "2016-01-29",
+        "region": "EU"
+    },
+    {
+        "name": "Adventures of Mana",
+        "system": "Android",
+        "release": "2016-02-04",
+        "region": "International"
+    },
+    {
+        "name": "Adventures of Mana",
+        "system": "Apple iOS",
+        "release": "2016-02-04",
+        "region": "International"
+    },
+    {
+        "name": "Adventures of Mana",
+        "system": "PS Vita",
+        "release": "2016-02-04",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "Apple iOS",
+        "release": "2016-02-16",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "Android",
+        "release": "2016-02-16",
+        "region": "International"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Apple iOS",
+        "release": "2016-02-17",
+        "region": "JP"
+    },
+    {
+        "name": "Lightning Returns: Final Fantasy XIII [13]",
+        "system": "Android",
+        "release": "2016-02-17",
+        "region": "JP"
+    },
+    {
+        "name": "Platinum Demo: Final Fantasy XV",
+        "system": "PlayStation 4",
+        "release": "2016-03-30",
+        "region": "International"
+    },
+    {
+        "name": "Platinum Demo: Final Fantasy XV",
+        "system": "Xbox One",
+        "release": "2016-03-30",
+        "region": "International"
+    },
+    {
+        "name": "Brotherhood Final Fantasy XV",
+        "system": "YouTube",
+        "release": "2016-03-30",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Tactics Advance",
+        "system": "Wii U Virtual Console",
+        "release": "2016-03-30",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy IX [9]",
+        "system": "PC (Steam)",
+        "release": "2016-04-14",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "PC (Steam)",
+        "release": "2016-05-12",
+        "region": "International"
+    },
+    {
+        "name": "Adventures of Mana",
+        "system": "PS Vita",
+        "release": "2016-06-28",
+        "region": "NA, EU"
+    },
+    {
+        "name": "Final Fantasy: Brave Exvius",
+        "system": "Apple iOS",
+        "release": "2016-06-29",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy: Brave Exvius",
+        "system": "Android",
+        "release": "2016-06-29",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Android",
+        "release": "2016-07-07",
+        "region": "International"
+    },
+    {
+        "name": "Kingsglaive: Final Fantasy XV",
+        "system": "Select Cinemas",
+        "release": "2016-07-09",
+        "region": "JP"
+    },
+    {
+        "name": "Justice Monsters Five",
+        "system": "Android",
+        "release": "2016-08",
+        "region": "International"
+    },
+    {
+        "name": "Justice Monsters Five",
+        "system": "Apple iOS",
+        "release": "2016-08",
+        "region": "International"
+    },
+    {
+        "name": "Mobius Final Fantasy",
+        "system": "Apple iOS",
+        "release": "2016-08-03",
+        "region": "International"
+    },
+    {
+        "name": "Mobius Final Fantasy",
+        "system": "Android",
+        "release": "2016-08-03",
+        "region": "International"
+    },
+    {
+        "name": "Kingsglaive: Final Fantasy XV",
+        "system": "Select Cinemas",
+        "release": "2016-08-19",
+        "region": "NA"
+    },
+    {
+        "name": "Brotherhood Final Fantasy XV",
+        "system": "Blu-ray",
+        "release": "2016-09-30",
+        "region": "International"
+    },
+    {
+        "name": "Kingsglaive: Final Fantasy XV",
+        "system": "Blu-ray",
+        "release": "2016-09-30",
+        "region": "International"
+    },
+    {
+        "name": "Kingsglaive: Final Fantasy XV",
+        "system": "DVD",
+        "release": "2016-10-04",
+        "region": "International"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PlayStation 4",
+        "release": "2016-10-25",
+        "region": "NA"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PS Vita",
+        "release": "2016-10-25",
+        "region": "NA"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PlayStation 4",
+        "release": "2016-10-27",
+        "region": "JP"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PS Vita",
+        "release": "2016-10-27",
+        "region": "JP"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PlayStation 4",
+        "release": "2016-10-28",
+        "region": "EU"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PS Vita",
+        "release": "2016-10-28",
+        "region": "EU"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "NEW Classic Edition",
+        "release": "2016-11-10",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy I [1]",
+        "system": "NEW Classic Edition",
+        "release": "2016-11-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XV [15]",
+        "system": "PlayStation 4",
+        "release": "2016-11-29",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV [15]",
+        "system": "Xbox One",
+        "release": "2016-11-29",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Awakening",
+        "system": "Android",
+        "release": "2016-12-14",
+        "region": "CH"
+    },
+    {
+        "name": "Final Fantasy Awakening",
+        "system": "Apple iOS",
+        "release": "2016-12-14",
+        "region": "CH"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "PlayStation 4",
+        "release": "2017",
+        "region": "International"
+    },
+    {
+        "name": "Pictlogica Final Fantasy",
+        "system": "Nintendo 3DS",
+        "release": "2017-06-15",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Stormblood",
+        "system": "Microsoft Windows (PC)",
+        "release": "2017-06-20",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Stormblood",
+        "system": "Apple OS X (Mac)",
+        "release": "2017-06-20",
+        "region": "International"
+    },
+    {
+        "name": "King's Knight: Wrath of the Dark Dragon",
+        "system": "Android",
+        "release": "2017-09-13",
+        "region": "International"
+    },
+    {
+        "name": "King's Knight: Wrath of the Dark Dragon",
+        "system": "Apple iOS",
+        "release": "2017-09-13",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Dimensions II",
+        "system": "Android",
+        "release": "2017-11-01",
+        "region": "Worldwide"
+    },
+    {
+        "name": "Monster of the Deep: Final Fantasy XV",
+        "system": "Playstation 4",
+        "release": "2017-11-21",
+        "region": "International"
+    },
+    {
+        "name": "World of Final Fantasy",
+        "system": "PC (Steam)",
+        "release": "2017-11-21",
+        "region": "WW"
+    },
+    {
+        "name": "Dissidia Final Fantasy NT",
+        "system": "Playstation 4",
+        "release": "2018-01-11",
+        "region": "JP"
+    },
+    {
+        "name": "Dissidia Final Fantasy NT",
+        "system": "Playstation 4",
+        "release": "2018-01-30",
+        "region": "Wordwide"
+    },
+    {
+        "name": "Dissidia Final Fantasy Omnia",
+        "system": "Android",
+        "release": "2018-01-30",
+        "region": "---"
+    },
+    {
+        "name": "Dissidia Final Fantasy Omnia",
+        "system": "Apple iOS",
+        "release": "2018-01-30",
+        "region": "---"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "PC (Steam)",
+        "release": "2018-02-02",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Android",
+        "release": "2018-02-18",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Apple iOS",
+        "release": "2018-02-18",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Awakening",
+        "system": "Android",
+        "release": "2018-02-18",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy Awakening",
+        "system": "Apple iOS",
+        "release": "2018-02-18",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Microsoft Windows (PC)",
+        "release": "2018-06-06",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Xbox One (Download)",
+        "release": "2018-09-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Playstation 4 (Download)",
+        "release": "2018-09-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XV: Pocket Edition HD",
+        "system": "Nintendo Switch (eShop)",
+        "release": "2018-09-13",
+        "region": "International"
+    },
+    {
+        "name": "World of Final Fantasy Maxima",
+        "system": "Nintendo Switch",
+        "release": "2018-11-06",
+        "region": "WW"
+    },
+    {
+        "name": "World of Final Fantasy Maxima",
+        "system": "Xbox One",
+        "release": "2018-11-06",
+        "region": "WW"
+    },
+    {
+        "name": "Final Fantasy IX [9] Remastered",
+        "system": "Xbox One (Download)",
+        "release": "2019-02-13",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy IX [9] Remastered",
+        "system": "Nintendo Switch",
+        "release": "2019-02-13",
+        "region": "International"
+    },
+    {
+        "name": "Dissidia Final Fantasy NT",
+        "system": "PC (Steam)",
+        "release": "2019-03-12",
+        "region": "Worldwide"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Nintendo Switch (eShop)",
+        "release": "2019-03-26",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]",
+        "system": "Xbox One (Download)",
+        "release": "2019-03-26",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "Nintendo Switch",
+        "release": "2019-04-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "Xbox One",
+        "release": "2019-04-11",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "Nintendo Switch",
+        "release": "2019-04-16",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy X/X-2 HD Remaster",
+        "system": "Xbox One",
+        "release": "2019-04-16",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "Nintendo Switch",
+        "release": "2019-04-25",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "Xbox One",
+        "release": "2019-04-25",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "Nintendo Switch",
+        "release": "2019-04-30",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XII [12]: The Zodiac Age",
+        "system": "Xbox One",
+        "release": "2019-04-30",
+        "region": "NA"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Shadowbringers",
+        "system": "PlayStation 4",
+        "release": "2019-07-02",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Shadowbringers",
+        "system": "Apple OS X (Mac)",
+        "release": "2019-07-02",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Shadowbringers",
+        "system": "Microsoft Windows (PC)",
+        "release": "2019-07-02",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8] Remastered",
+        "system": "Xbox One (Download)",
+        "release": "2019-09-03",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8] Remastered",
+        "system": "Nintendo Switch (eShop)",
+        "release": "2019-09-03",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8] Remastered",
+        "system": "Playstation 4 (Download)",
+        "release": "2019-09-03",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8] Remastered",
+        "system": "PC (Steam)",
+        "release": "2019-09-03",
+        "region": "International"
+    },
+    {
+        "name": "War of the Visions: Final Fantasy Brave Exvius",
+        "system": "Android / Apple iOS",
+        "release": "2019-11-14",
+        "region": "JP"
+    },
+    {
+        "name": "Final Fantasy VII and VIII Remastered Twin Pack",
+        "system": "Nintendo Switch",
+        "release": "2019-11-29",
+        "region": "International"
+    },
+    {
+        "name": "War of the Visions: Final Fantasy Brave Exvius",
+        "system": "Android / Apple iOS",
+        "release": "2020-03-25",
+        "region": "WW"
+    },
+    {
+        "name": "Final Fantasy VII [7] Remake",
+        "system": "PlayStation 4",
+        "release": "2020-04-10",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles Remastered",
+        "system": "Android",
+        "release": "2020-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles Remastered",
+        "system": "Apple iOS",
+        "release": "2020-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles Remastered",
+        "system": "Nintendo Switch",
+        "release": "2020-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles Remastered",
+        "system": "Playstation 4",
+        "release": "2020-08-27",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VIII [8] Remastered",
+        "system": "Android / Apple iOS",
+        "release": "2021-03-24",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7] Remake Intergrade",
+        "system": "PlayStation 5",
+        "release": "2021-06-10",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy I [1]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2021-07-28",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy II [2]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2021-07-28",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy III [3]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2021-07-28",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy IV [4]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2021-09-08",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy V [5]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2021-11-10",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]: The First Soldier",
+        "system": "Android",
+        "release": "2021-11-17",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]: The First Soldier",
+        "system": "Apple iOS",
+        "release": "2021-11-17",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Endwalker",
+        "system": "PlayStation 4",
+        "release": "2021-12-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Endwalker",
+        "system": "PlayStation 5",
+        "release": "2021-12-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Endwalker",
+        "system": "Apple OS X (Mac)",
+        "release": "2021-12-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy XIV [14]: Endwalker",
+        "system": "Microsoft Windows (PC)",
+        "release": "2021-12-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7] Remake Intergrade",
+        "system": "PC (Steam)",
+        "release": "2021-12-16",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VI [6]: Pixel Remaster",
+        "system": "Android / Apple iOS / PC (Steam)",
+        "release": "2022-02-23",
+        "region": "International"
+    },
+    {
+        "name": "Stranger of Paradise: Final Fantasy Origin",
+        "system": "PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One",
+        "release": "2022-03-18",
+        "region": "International"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII Reunion",
+        "system": "Playstation 5",
+        "release": "2023-03-31",
+        "region": "WW"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII Reunion",
+        "system": "Playstation 4",
+        "release": "2023-03-31",
+        "region": "WW"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII Reunion",
+        "system": "Nintendo Switch",
+        "release": "2023-03-31",
+        "region": "WW"
+    },
+    {
+        "name": "Crisis Core: Final Fantasy VII Reunion",
+        "system": "Xbox One",
+        "release": "2023-03-31",
+        "region": "WW"
+    },
+    {
+        "name": "Final Fantasy XVI [16]",
+        "system": "PlayStation 5",
+        "release": "2023-08-07",
+        "region": "International"
+    },
+    {
+        "name": "Final Fantasy VII [7]: Rebirth",
+        "system": "Playstation 5",
+        "release": "2023-12-15",
+        "region": "International"
+    }
+]
